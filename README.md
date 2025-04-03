@@ -16,3 +16,8 @@ This project does exactly that—**identifying forest fires before they spread**
 ---
 
 ## 🗂 Project Structure  
+📂 Forest-Fire-Detection │-- 📁 dataset/ # Wildfire dataset (images) │-- 📁 models/ # Trained AI models │-- 📁 src/ # Model training & prediction scripts │-- 📁 notebooks/ # Jupyter notebooks for analysis │-- 📄 README.md # Project documentation │-- 📄 requirements.txt # Dependencies │-- 📄 app.py # Deployment script (if applicable)
+---
+
+
+
